@@ -1,0 +1,51 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence
+adda-team_adda;dkim68;eabbott9;HasRecovered;Yes;Yes;Yes;Big spike of commits after longest gap
+adda-team_adda;dkim68;eabbott9;WhyRecovered;Development resumed around rect_dip branch integration, cleanup, usability changes, and new tests.;rect_dip branch merged, suggesting large feature;Yes;one commit says "master to rect_dip"
+adda-team_adda;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Spikes got progressively smaller, last spike trickled down to maintenance
+adda-team_adda;dkim68;eabbott9;Currentstatus;Active;Active;Yes;Mainentance commits still made regularly
+adda-team_adda;dkim68;eabbott9;RecentThemes;Documentation updates:Bug fixes;Documentation:Bugs;Yes;Simple maintenance commits for documentation like "updates README with directory structure and..."
+cpmech_gosl;dkim68;eabbott9;HasRecovered;Yes;No;No;Little to no commits after the last big spike
+cpmech_gosl;dkim68;eabbott9;WhyRecovered;Maintenance resumed to address OpenBLAS-dependent tests, Go/CI versions, Docker compilation, and related compatibility fixes.;N/A;No;N/A
+cpmech_gosl;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Spikes decrease in size, pretty much no commits in the past 3-4 years
+cpmech_gosl;dkim68;eabbott9;Currentstatus;Active;Inactive;No;Spikes decrease in size, pretty much no commits in the past 3-4 years
+cpmech_gosl;dkim68;eabbott9;RecentThemes;Bug fixes:Documentation updates;Documentation:Bugs;Yes;One commit is has message "Merge pull request #65 from cpmech/fix-readme"
+envirocar_envirocar-app;dkim68;eabbott9;HasRecovered;Yes;Yes;Yes;Large spikes afterwards in 2019 and 2021
+envirocar_envirocar-app;dkim68;eabbott9;WhyRecovered;Activity resumed with issue fixes, UI corrections, and merged contributions addressing several open issues.;UI updates;Yes;Toolbar focused commits like "Repositioned the text "Help" in the toolbar..."
+envirocar_envirocar-app;dkim68;eabbott9;ActivityPattern;irregular;irregular;Yes;Large spikes with large gaps in between at uneven intervals
+envirocar_envirocar-app;dkim68;eabbott9;Currentstatus;Active;Active;Yes;Spikes have been recent, suggesting another spike in the future
+envirocar_envirocar-app;dkim68;eabbott9;RecentThemes;Feature development:Bug fixes;Features:Bugs;Yes;7 of 10 recent commits merging branches into master
+jlizier_jidt;dkim68;eabbott9;HasRecovered;Yes;Yes;Yes;
+jlizier_jidt;dkim68;eabbott9;WhyRecovered;Activity resumed with substantial feature development, including GPU work, multivariate calculators, optimization work, and transfer-entropy updates.;Technical math heavy feature implementations;Yes;Fancy commit messages like "Add new MultiInformationCalculatorGaussian" 
+jlizier_jidt;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Declined sharply after 2014, regular maintenance commits
+jlizier_jidt;dkim68;eabbott9;Currentstatus;Active;Active;Yes;Regular maintenance updates till present after 2019
+jlizier_jidt;dkim68;eabbott9;RecentThemes;Documentation updates:Feature development;Versioning:Feature development;No;commit like "Targeting Java version 8 in our builds now", 4 merge commits and talks of module 12 rework
+juliamath_gsl.jl;dkim68;eabbott9;HasRecovered;Yes;Yes;Yes;Incredibly irregular commits with high peaks and large, dead windows in-between
+juliamath_gsl.jl;dkim68;eabbott9;WhyRecovered;Activity resumed through maintenance automation, especially Dependabot enablement and GitHub Actions dependency updates.;Many dependabot updates;Yes;Many commits for "enable dependabot for GitHub actions" and 6 commits about bumping different actions afterwards
+juliamath_gsl.jl;dkim68;eabbott9;ActivityPattern;irregular;irregular;Yes;Incredibly irregular commits with high peaks and large, dead windows in-between
+juliamath_gsl.jl;dkim68;eabbott9;Currentstatus;Active;Active;Yes;So irregular its hard to say it has ever really died, peak heights don't suggest decline either
+juliamath_gsl.jl;dkim68;eabbott9;RecentThemes;Dependency updates:Automated bot contributions;Dependency updates;Yes;Many commits like "Fix compat for julia"
+kul-forbes_forbes;dkim68;eabbott9;HasRecovered;Yes;No;No;Incredibly few maintenance commits after major fall off and gap, last commit in 2019
+kul-forbes_forbes;dkim68;eabbott9;WhyRecovered;Development resumed around NAMA-QP testing, algorithm fixes, adaptive behavior, and new optimization methods.;N/A;No;N/A
+kul-forbes_forbes;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Small, irregular batches of maintenance after major fall off and gap
+kul-forbes_forbes;dkim68;eabbott9;Currentstatus;Inactive;Inactive;Yes;Last commit from Jan. 2019
+kul-forbes_forbes;dkim68;eabbott9;RecentThemes;Bug fixes:Feature development;Bug fixes:Feature development;Yes;Least-recent commit is "fixed error\n", others implement technical concepts like "Lipshitz constant"
+open-quantum-safe_ci-containers;dkim68;eabbott9;HasRecovered;Yes;Yes;Yes;Consistent batches of ~10 commits every 6 months
+open-quantum-safe_ci-containers;dkim68;eabbott9;WhyRecovered;Activity resumed to modernize the CI toolchain by adding scan-build, updating Docker/LLVM/Go, and enabling profiling.;Build configurations like Docker and scan-build;Yes;Docker commits like "upgrade docker for ARM64 to circumvent GPG err..." and "Adding scan-build support (#58)\n\n* adding sc..."
+open-quantum-safe_ci-containers;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Project started with 45-commit spike, now down to batches of ~10 commits every 6 months
+open-quantum-safe_ci-containers;dkim68;eabbott9;Currentstatus;Active;Active;Yes;Consistent batches of ~10 commits every 6 months
+open-quantum-safe_ci-containers;dkim68;eabbott9;RecentThemes;Feature development:Dependency updates;Features:Building;No;Commits for OS-specific features like "added Python requests to alpine and ubuntu-jam...", build commits like "Automate building Alpine Linux CI image in Git..."
+poissonconsulting_tmbr;dkim68;eabbott9;HasRecovered;Yes;No;No;Commits rapidly died off, with ~5-commit batches every 6 months
+poissonconsulting_tmbr;dkim68;eabbott9;WhyRecovered;Activity resumed to update workflows and dependencies, fix tests and warnings, refresh documentation, and redeploy the site.;N/A;No;N/A
+poissonconsulting_tmbr;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Commits rapidly died off, with ~5-commit batches every 6 months
+poissonconsulting_tmbr;dkim68;eabbott9;Currentstatus;Active;Inactive;No;Commits rapidly died off, with ~5-commit batches every 6 months, last commit Jun. 2025
+poissonconsulting_tmbr;dkim68;eabbott9;RecentThemes;Documentation updates:Automated bot contributions;Deployment:Documentation;No;4 of 10 are deployments to GitHub pages, another 3 delete markdown files and 1 updates a description somewhere: "Updated DESCRIPTION to new Poisson template" 
+snakemake_snakemake;dkim68;eabbott9;HasRecovered;N/A active Project;N/A active Project;Yes;No gaps present?!
+snakemake_snakemake;dkim68;eabbott9;WhyRecovered;N/A active Project;N/A active Project;Yes;No gaps present?!
+snakemake_snakemake;dkim68;eabbott9;ActivityPattern;rising;rising;Yes;Increased from ~50 commits per month to ~100 in 2019
+snakemake_snakemake;dkim68;eabbott9;Currentstatus;Active;Active;Yes;Increased from ~50 commits per month to ~100 in 2019, have sustained pace?!
+snakemake_snakemake;dkim68;eabbott9;RecentThemes;Feature development:Other;Feature:Merging;Yes;All recent commits are merged forks for requested features
+tencent_turbotransformers;dkim68;eabbott9;HasRecovered;Yes, but only limited maintenance activity;No;No;Gotta be like <5 commits since largest gap, less than one commit per year pretty much
+tencent_turbotransformers;dkim68;eabbott9;WhyRecovered;Activity resumed briefly for requirements and dependency maintenance, including a Dependabot transformers update.;N/A;No;N/A
+tencent_turbotransformers;dkim68;eabbott9;ActivityPattern;declining;declining;Yes;Very few commits since 2021, and a 200+ commit peak in 2020
+tencent_turbotransformers;dkim68;eabbott9;Currentstatus;Active;Inactive;No;Last maintenance commit in Jul. 2025
+tencent_turbotransformers;dkim68;eabbott9;RecentThemes;Dependency updates:Automated bot contributions;Dependency updates:Dependabot;Yes;3 are from dependabot, all others are updates to "requirements.txt" or other dependency configs

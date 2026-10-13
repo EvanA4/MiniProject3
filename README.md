@@ -1,5 +1,7 @@
 # MiniProject Use Qualitative Analysis
 
+Partner Github User: Dubu911
+
 ## Background 
 
 In MiniProject2, you analyzed ten projects, producing time-series
@@ -109,7 +111,7 @@ You can map names/githubIDs for each NetID in [netids.md](./netID.md).
 |sydlwils|jzr266|
 |lsantucc|pstorch1|
 |jbronyah|kyandall|
-|lwang111|ccoughl3|
+|lwang111|ccough13|
 |wch356|jvijayak|
 |ltipto11|hneel|
 |wknepp|aalkafou|
